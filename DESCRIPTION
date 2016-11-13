@@ -1,0 +1,12 @@
+Package: rtools
+Title: Some useful methods that I often need
+Description: No further description.
+Type: Package
+Version: 0.7.1
+Date: 2016-11-13
+License: LGPL-3
+Imports:
+    gplots
+Author: Alexander Lehmann <afwlehmann@googlemail.com>
+Maintainer: Alexander Lehmann <afwlehmann@googlemail.com>
+RoxygenNote: 5.0.1
